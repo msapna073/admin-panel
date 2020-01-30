@@ -1,0 +1,50 @@
+h1, h2, h3, h4, h5, h6, p, ul, li, a {
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{font-size: 24px!important; 
+    padding:0px!important; 
+    margin: 0px!important;
+}
+
+.contentArea{
+    width: 100%;
+    min-height: 100vh;
+    transition: all 0.3s;
+}
+
+.workSection{
+    padding: 20px;
+    min-height: 100vh;
+}
+
+.heading{
+    width:100%;
+    background: #f9f9f9;
+    padding: 10px;
+    border-bottom: 2px #eee solid;
+}
+
+.formcontainer{
+    margin-top: 20px;
+    display: block;
+}
+
+
+
+/* Attendance */
+
+.showAttendance{
+    margin-top: 80px;
+}
+
+
+
+
+
+
+
+
+
+
